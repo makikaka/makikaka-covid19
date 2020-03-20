@@ -3,13 +3,13 @@ from distutils.core import setup
 setup(
     name="makikaka-covid19",
     packages=['makikaka-covid19'],
-    version='0.2',
+    version='0.3',
     license='MIT',
     description='covid19 timely stats',
     author='Mladen Tasevski',
     author_email="mladen.tasevski@gmail.com",
     url='https://github.com/makikaka/makikaka-covid19',
-    download_url='https://github.com/makikaka/makikaka-covid19/archive/v_02.tar.gz',
+    download_url='https://github.com/makikaka/makikaka-covid19/archive/v_03.tar.gz',
     keywords=['covid19', 'http', 'sqlite'],
     install_requires=[
         'http',
