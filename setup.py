@@ -12,7 +12,6 @@ setup(
     download_url='https://github.com/makikaka/makikaka-covid19/archive/v_01.tar.gz',
     keywords=['covid19', 'http', 'sqlite'],
     install_requires=[
-        'sys',
         'http.server',
         'os',
         'utils',
